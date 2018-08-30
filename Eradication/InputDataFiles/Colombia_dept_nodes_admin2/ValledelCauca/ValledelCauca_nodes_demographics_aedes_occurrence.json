@@ -1,0 +1,457 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 4.6512,
+                "Longitude": -75.8145,
+                "InitialPopulation": 24427,
+                "FacilityName": "Alcala",
+                "LarvalHabitatMultiplier": 0.1429
+            },
+            "NodeID": 53301012
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.1138,
+                "Longitude": -76.1432,
+                "InitialPopulation": 54413,
+                "FacilityName": "Alcala",
+                "LarvalHabitatMultiplier": 0.4251
+            },
+            "NodeID": 53301013
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.7842,
+                "Longitude": -76.0914,
+                "InitialPopulation": 20337,
+                "FacilityName": "Alcala",
+                "LarvalHabitatMultiplier": 0.1021
+            },
+            "NodeID": 53301014
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.7071,
+                "Longitude": -76.228,
+                "InitialPopulation": 7732,
+                "FacilityName": "Alcala",
+                "LarvalHabitatMultiplier": 0.0156
+            },
+            "NodeID": 53301015
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.3314,
+                "Longitude": -76.412,
+                "InitialPopulation": 12176,
+                "FacilityName": "Alcala",
+                "LarvalHabitatMultiplier": 0.0718
+            },
+            "NodeID": 53301016
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.5957,
+                "Longitude": -77.0827,
+                "InitialPopulation": 354217,
+                "FacilityName": "Alcala",
+                "LarvalHabitatMultiplier": 2.0653
+            },
+            "NodeID": 53301017
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.1957,
+                "Longitude": -76.1279,
+                "InitialPopulation": 31197,
+                "FacilityName": "Alcala",
+                "LarvalHabitatMultiplier": 0.2358
+            },
+            "NodeID": 53301018
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.3111,
+                "Longitude": -75.8558,
+                "InitialPopulation": 19652,
+                "FacilityName": "Alcala",
+                "LarvalHabitatMultiplier": 0.1199
+            },
+            "NodeID": 53301019
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.9545,
+                "Longitude": -76.6391,
+                "InitialPopulation": 15309,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.0666
+            },
+            "NodeID": 53301020
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.3837,
+                "Longitude": -76.4247,
+                "InitialPopulation": 343861,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 2.8663
+            },
+            "NodeID": 53301021
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.686,
+                "Longitude": -75.9745,
+                "InitialPopulation": 105882,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.8938
+            },
+            "NodeID": 53301022
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.6424,
+                "Longitude": -76.7248,
+                "InitialPopulation": 33578,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.1901
+            },
+            "NodeID": 53301023
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.8916,
+                "Longitude": -76.1218,
+                "InitialPopulation": 8290,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.0154
+            },
+            "NodeID": 53301024
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.7608,
+                "Longitude": -76.3064,
+                "InitialPopulation": 1599,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.0024
+            },
+            "NodeID": 53301025
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.6774,
+                "Longitude": -76.2236,
+                "InitialPopulation": 65449,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.4724
+            },
+            "NodeID": 53301026
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.4907,
+                "Longitude": -76.3914,
+                "InitialPopulation": 5487,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.0293
+            },
+            "NodeID": 53301027
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.3037,
+                "Longitude": -76.2153,
+                "InitialPopulation": 78663,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.5807
+            },
+            "NodeID": 53301028
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.7384,
+                "Longitude": -76.2031,
+                "InitialPopulation": 25874,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.2028
+            },
+            "NodeID": 53301029
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.775,
+                "Longitude": -76.3081,
+                "InitialPopulation": 34694,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.2943
+            },
+            "NodeID": 53301030
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.8748,
+                "Longitude": -76.1185,
+                "InitialPopulation": 125336,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.9481
+            },
+            "NodeID": 53301031
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.1999,
+                "Longitude": -76.665,
+                "InitialPopulation": 109412,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.9218
+            },
+            "NodeID": 53301032
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.668,
+                "Longitude": -76.6077,
+                "InitialPopulation": 12860,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.0619
+            },
+            "NodeID": 53301033
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.5221,
+                "Longitude": -76.1508,
+                "InitialPopulation": 24897,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.1975
+            },
+            "NodeID": 53301034
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.4762,
+                "Longitude": -75.9812,
+                "InitialPopulation": 24797,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.1901
+            },
+            "NodeID": 53301035
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.5702,
+                "Longitude": -75.979,
+                "InitialPopulation": 16668,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.1236
+            },
+            "NodeID": 53301036
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.5539,
+                "Longitude": -76.2522,
+                "InitialPopulation": 641674,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 5.2473
+            },
+            "NodeID": 53301037
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.417,
+                "Longitude": -76.1853,
+                "InitialPopulation": 64215,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.4537
+            },
+            "NodeID": 53301038
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.7959,
+                "Longitude": -76.5674,
+                "InitialPopulation": 9724,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.0539
+            },
+            "NodeID": 53301039
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.1028,
+                "Longitude": -76.4159,
+                "InitialPopulation": 6875,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.0188
+            },
+            "NodeID": 53301040
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.429,
+                "Longitude": -76.2371,
+                "InitialPopulation": 24049,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.166
+            },
+            "NodeID": 53301041
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.9994,
+                "Longitude": -76.2612,
+                "InitialPopulation": 32654,
+                "FacilityName": "Andalucia",
+                "LarvalHabitatMultiplier": 0.2643
+            },
+            "NodeID": 53301042
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.3998,
+                "Longitude": -76.5996,
+                "InitialPopulation": 1635207,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 13.7274
+            },
+            "NodeID": 53301043
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.193,
+                "Longitude": -75.8982,
+                "InitialPopulation": 61248,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 0.2787
+            },
+            "NodeID": 53301044
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.6222,
+                "Longitude": -76.1308,
+                "InitialPopulation": 16086,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 0.1094
+            },
+            "NodeID": 53301045
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.2065,
+                "Longitude": -76.3864,
+                "InitialPopulation": 12990,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 0.0583
+            },
+            "NodeID": 53301046
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.027,
+                "Longitude": -76.0344,
+                "InitialPopulation": 159254,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 1.2206
+            },
+            "NodeID": 53301047
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.6972,
+                "Longitude": -75.818,
+                "InitialPopulation": 19072,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 0.1222
+            },
+            "NodeID": 53301048
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.6081,
+                "Longitude": -76.3385,
+                "InitialPopulation": 6251,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 0.0272
+            },
+            "NodeID": 53301049
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.7328,
+                "Longitude": -76.4936,
+                "InitialPopulation": 12623,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 0.0934
+            },
+            "NodeID": 53301050
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.9317,
+                "Longitude": -76.4249,
+                "InitialPopulation": 14525,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 0.0853
+            },
+            "NodeID": 53301051
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.5699,
+                "Longitude": -76.5438,
+                "InitialPopulation": 177781,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 1.2749
+            },
+            "NodeID": 53301052
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.3598,
+                "Longitude": -76.0969,
+                "InitialPopulation": 51868,
+                "FacilityName": "Ansermanuevo",
+                "LarvalHabitatMultiplier": 0.4199
+            },
+            "NodeID": 53301053
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 0,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "2018-04-16",
+        "IdReference": "ValledelCauca",
+        "NodeCount": 42,
+        "Tool": "create_admin2_demographics_aedes_info.R"
+    }
+}
+

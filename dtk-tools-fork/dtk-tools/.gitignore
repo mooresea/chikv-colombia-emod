@@ -1,0 +1,55 @@
+# Python
+*.py[cod]
+
+# Visual Studio
+*.pyproj*
+*.sln
+*.suo
+*.vscode*
+*.vs*
+
+# Simulation meta-data
+*simulations/
+
+# Analysis outputs
+*cache/
+*figs/
+
+# Old stuff
+deprecate/
+
+# Setup
+*.eggs
+*egg-info
+*build/
+*dist/
+
+# PyCharm
+*.idea*
+*.log
+.ipynb_checkpoints
+
+# Calibration
+temp
+temp_dtk.py
+StdOut.txt
+StdErr.txt
+simIDs
+dtk/calibration/calib_example/*test*/
+examples/ExampleCalibration/
+examples/FullCalibrationExample/
+test/tmp/
+
+# Helper
+*.ignore.*
+
+# User configuration
+simtools/simtools.ini
+examples/simtools.ini
+db.sqlite
+logs.sqlite
+examples/*/simtools.ini
+install/*.whl
+simtools/simtools.ini.bak
+.overseer_check_lock
+.setup_parser_init_lock

@@ -1,0 +1,227 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 4.5266,
+                "Longitude": -72.8206,
+                "InitialPopulation": 24078,
+                "FacilityName": "Villanueva",
+                "LarvalHabitatMultiplier": 0.5542
+            },
+            "NodeID": 5385440
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.8085,
+                "Longitude": -72.9947,
+                "InitialPopulation": 2943,
+                "FacilityName": "Sabanalarga",
+                "LarvalHabitatMultiplier": 0.0677
+            },
+            "NodeID": 5385300
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.8407,
+                "Longitude": -72.8458,
+                "InitialPopulation": 15021,
+                "FacilityName": "Monterrey",
+                "LarvalHabitatMultiplier": 0.3457
+            },
+            "NodeID": 5385162
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.6972,
+                "Longitude": -72.6288,
+                "InitialPopulation": 22726,
+                "FacilityName": "Tauramena",
+                "LarvalHabitatMultiplier": 0.5231
+            },
+            "NodeID": 5385410
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2664,
+                "Longitude": -72.7715,
+                "InitialPopulation": 4222,
+                "FacilityName": "Recetor",
+                "LarvalHabitatMultiplier": 0.0972
+            },
+            "NodeID": 5385279
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.1268,
+                "Longitude": -72.5488,
+                "InitialPopulation": 39664,
+                "FacilityName": "Aguazul",
+                "LarvalHabitatMultiplier": 0.9129
+            },
+            "NodeID": 5385010
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2426,
+                "Longitude": -72.2574,
+                "InitialPopulation": 142979,
+                "FacilityName": "Yopal",
+                "LarvalHabitatMultiplier": 3.2909
+            },
+            "NodeID": 5385001
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5315,
+                "Longitude": -72.0988,
+                "InitialPopulation": 8867,
+                "FacilityName": "Nunchia",
+                "LarvalHabitatMultiplier": 0.2041
+            },
+            "NodeID": 5385225
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6629,
+                "Longitude": -71.9243,
+                "InitialPopulation": 7915,
+                "FacilityName": "Pore",
+                "LarvalHabitatMultiplier": 0.1822
+            },
+            "NodeID": 5385263
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3669,
+                "Longitude": -71.195,
+                "InitialPopulation": 15105,
+                "FacilityName": "Trinidad",
+                "LarvalHabitatMultiplier": 0.3477
+            },
+            "NodeID": 5385430
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2323,
+                "Longitude": -71.5943,
+                "InitialPopulation": 7810,
+                "FacilityName": "SanLuisdePalenque",
+                "LarvalHabitatMultiplier": 0.1798
+            },
+            "NodeID": 5385325
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.6766,
+                "Longitude": -72.2139,
+                "InitialPopulation": 11130,
+                "FacilityName": "Mani",
+                "LarvalHabitatMultiplier": 0.2562
+            },
+            "NodeID": 5385139
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.9156,
+                "Longitude": -71.6009,
+                "InitialPopulation": 8348,
+                "FacilityName": "Orocue",
+                "LarvalHabitatMultiplier": 0.1921
+            },
+            "NodeID": 5385230
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2281,
+                "Longitude": -72.8651,
+                "InitialPopulation": 2511,
+                "FacilityName": "Chameza",
+                "LarvalHabitatMultiplier": 0.0578
+            },
+            "NodeID": 5385015
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8799,
+                "Longitude": -72.1845,
+                "InitialPopulation": 7036,
+                "FacilityName": "Tamara",
+                "LarvalHabitatMultiplier": 0.1619
+            },
+            "NodeID": 5385400
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0503,
+                "Longitude": -72.2113,
+                "InitialPopulation": 2034,
+                "FacilityName": "Sacama",
+                "LarvalHabitatMultiplier": 0.0468
+            },
+            "NodeID": 5385315
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1727,
+                "Longitude": -72.3462,
+                "InitialPopulation": 1434,
+                "FacilityName": "LaSalina",
+                "LarvalHabitatMultiplier": 0.033
+            },
+            "NodeID": 5385136
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7805,
+                "Longitude": -70.8706,
+                "InitialPopulation": 26534,
+                "FacilityName": "PazdeAriporo",
+                "LarvalHabitatMultiplier": 0.6107
+            },
+            "NodeID": 5385250
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.11,
+                "Longitude": -71.1346,
+                "InitialPopulation": 12364,
+                "FacilityName": "HatoCorozal",
+                "LarvalHabitatMultiplier": 0.2846
+            },
+            "NodeID": 5385125
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Casanare",
+        "NodeCount": 19,
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R"
+    }
+}
+

@@ -1,0 +1,77 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 1.365,
+                "Longitude": -72.0186,
+                "InitialPopulation": 14770,
+                "FacilityName": "Miraflores",
+                "LarvalHabitatMultiplier": 0.34
+            },
+            "NodeID": 5395200
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 2.0828,
+                "Longitude": -71.5086,
+                "InitialPopulation": 23364,
+                "FacilityName": "ElRetorno",
+                "LarvalHabitatMultiplier": 0.5378
+            },
+            "NodeID": 5395025
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.615,
+                "Longitude": -73.0342,
+                "InitialPopulation": 8876,
+                "FacilityName": "Calamar",
+                "LarvalHabitatMultiplier": 0.2043
+            },
+            "NodeID": 5395015
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 2.4823,
+                "Longitude": -71.9269,
+                "InitialPopulation": 65611,
+                "FacilityName": "SanJosedelGuaviare",
+                "LarvalHabitatMultiplier": 1.5101
+            },
+            "NodeID": 5395001
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Guaviare",
+        "NodeCount": 4,
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R"
+    }
+}
+

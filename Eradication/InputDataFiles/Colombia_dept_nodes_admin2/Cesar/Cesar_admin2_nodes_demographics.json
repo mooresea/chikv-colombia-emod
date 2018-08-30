@@ -1,0 +1,287 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 10.1632,
+                "Longitude": -73.1914,
+                "InitialPopulation": 22887,
+                "FacilityName": "LaPaz",
+                "LarvalHabitatMultiplier": 0.5268
+            },
+            "NodeID": 5320621
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.3908,
+                "Longitude": -72.99,
+                "InitialPopulation": 14855,
+                "FacilityName": "Manaure",
+                "LarvalHabitatMultiplier": 0.3419
+            },
+            "NodeID": 5320443
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 9.9506,
+                "Longitude": -73.2192,
+                "InitialPopulation": 50450,
+                "FacilityName": "AgustinCodazzi",
+                "LarvalHabitatMultiplier": 1.1612
+            },
+            "NodeID": 5320013
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.2002,
+                "Longitude": -73.9127,
+                "InitialPopulation": 26587,
+                "FacilityName": "ElCopey",
+                "LarvalHabitatMultiplier": 0.6119
+            },
+            "NodeID": 5320238
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 9.7279,
+                "Longitude": -73.2507,
+                "InitialPopulation": 13388,
+                "FacilityName": "Becerril",
+                "LarvalHabitatMultiplier": 0.3081
+            },
+            "NodeID": 5320045
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 9.5506,
+                "Longitude": -73.326,
+                "InitialPopulation": 22311,
+                "FacilityName": "LaJaguadeIbirico",
+                "LarvalHabitatMultiplier": 0.5135
+            },
+            "NodeID": 5320400
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 9.4269,
+                "Longitude": -73.5484,
+                "InitialPopulation": 19375,
+                "FacilityName": "Chiriguana",
+                "LarvalHabitatMultiplier": 0.4459
+            },
+            "NodeID": 5320178
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 9.2394,
+                "Longitude": -73.488,
+                "InitialPopulation": 24035,
+                "FacilityName": "Curumani",
+                "LarvalHabitatMultiplier": 0.5532
+            },
+            "NodeID": 5320228
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.4033,
+                "Longitude": -73.3785,
+                "InitialPopulation": 6789,
+                "FacilityName": "Gonzalez",
+                "LarvalHabitatMultiplier": 0.1563
+            },
+            "NodeID": 5320310
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.4683,
+                "Longitude": -73.5879,
+                "InitialPopulation": 22837,
+                "FacilityName": "PuebloBello",
+                "LarvalHabitatMultiplier": 0.5256
+            },
+            "NodeID": 5320570
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.381,
+                "Longitude": -73.4642,
+                "InitialPopulation": 463219,
+                "FacilityName": "Valledupar",
+                "LarvalHabitatMultiplier": 10.6616
+            },
+            "NodeID": 5320001
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.1688,
+                "Longitude": -73.2892,
+                "InitialPopulation": 13322,
+                "FacilityName": "SanDiego",
+                "LarvalHabitatMultiplier": 0.3066
+            },
+            "NodeID": 5320750
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 9.9464,
+                "Longitude": -73.8686,
+                "InitialPopulation": 37870,
+                "FacilityName": "Bosconia",
+                "LarvalHabitatMultiplier": 0.8716
+            },
+            "NodeID": 5320060
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 9.6819,
+                "Longitude": -73.6931,
+                "InitialPopulation": 23013,
+                "FacilityName": "ElPaso",
+                "LarvalHabitatMultiplier": 0.5297
+            },
+            "NodeID": 5320250
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 9.5176,
+                "Longitude": -73.9407,
+                "InitialPopulation": 19255,
+                "FacilityName": "Astrea",
+                "LarvalHabitatMultiplier": 0.4432
+            },
+            "NodeID": 5320032
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 9.2187,
+                "Longitude": -73.7526,
+                "InitialPopulation": 30585,
+                "FacilityName": "Chimichagua",
+                "LarvalHabitatMultiplier": 0.704
+            },
+            "NodeID": 5320175
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.9006,
+                "Longitude": -73.7647,
+                "InitialPopulation": 13838,
+                "FacilityName": "Tamalameque",
+                "LarvalHabitatMultiplier": 0.3185
+            },
+            "NodeID": 5320787
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.6204,
+                "Longitude": -73.6278,
+                "InitialPopulation": 12760,
+                "FacilityName": "LaGloria",
+                "LarvalHabitatMultiplier": 0.2937
+            },
+            "NodeID": 5320383
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.2498,
+                "Longitude": -73.6214,
+                "InitialPopulation": 93917,
+                "FacilityName": "Aguachica",
+                "LarvalHabitatMultiplier": 2.1616
+            },
+            "NodeID": 5320011
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.2011,
+                "Longitude": -73.4874,
+                "InitialPopulation": 13994,
+                "FacilityName": "RiodeOro",
+                "LarvalHabitatMultiplier": 0.3221
+            },
+            "NodeID": 5320614
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.9376,
+                "Longitude": -73.5443,
+                "InitialPopulation": 18650,
+                "FacilityName": "SanMartin",
+                "LarvalHabitatMultiplier": 0.4293
+            },
+            "NodeID": 5320770
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.9392,
+                "Longitude": -73.5762,
+                "InitialPopulation": 17268,
+                "FacilityName": "Pailitas",
+                "LarvalHabitatMultiplier": 0.3974
+            },
+            "NodeID": 5320517
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.7641,
+                "Longitude": -73.6331,
+                "InitialPopulation": 18022,
+                "FacilityName": "Pelaya",
+                "LarvalHabitatMultiplier": 0.4148
+            },
+            "NodeID": 5320550
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.3396,
+                "Longitude": -73.7057,
+                "InitialPopulation": 16856,
+                "FacilityName": "Gamarra",
+                "LarvalHabitatMultiplier": 0.388
+            },
+            "NodeID": 5320295
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.8145,
+                "Longitude": -73.4535,
+                "InitialPopulation": 25121,
+                "FacilityName": "SanAlberto",
+                "LarvalHabitatMultiplier": 0.5782
+            },
+            "NodeID": 5320710
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Cesar",
+        "NodeCount": 25,
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R"
+    }
+}
+

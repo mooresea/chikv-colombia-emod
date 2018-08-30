@@ -1,0 +1,16 @@
+{
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DataProvenance": "",
+        "DatavalueCount": 1460,
+        "DateCreated": "11/15/2017",
+        "IdReference": "Colombia",
+        "NodeCount": 1,
+        "OriginalDataYears": "2013-2016",
+        "StartDayOfYear": "January 1",
+        "Tool": "colombia_create_admin0_climate_demographics_files.R",
+        "UpdateResolution": "CLIMATE_UPDATE_DAY"
+    },
+    "NodeOffsets": "0000003500000000"
+}
+

@@ -1,0 +1,1277 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7953,
+                "Longitude": -75.4522,
+                "InitialPopulation": 22154,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0916
+            },
+            "NodeID": 5329
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.6257,
+                "Longitude": -76.0904,
+                "InitialPopulation": 2959,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0098
+            },
+            "NodeID": 53210
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3525,
+                "Longitude": -75.115,
+                "InitialPopulation": 3663,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0118
+            },
+            "NodeID": 53211
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0238,
+                "Longitude": -75.7213,
+                "InitialPopulation": 28459,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.3551
+            },
+            "NodeID": 53212
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.979,
+                "Longitude": -74.992,
+                "InitialPopulation": 22192,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0885
+            },
+            "NodeID": 53213
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6015,
+                "Longitude": -75.9688,
+                "InitialPopulation": 38491,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.1383
+            },
+            "NodeID": 53214
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1232,
+                "Longitude": -75.7277,
+                "InitialPopulation": 10704,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.1594
+            },
+            "NodeID": 53215
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.8583,
+                "Longitude": -75.361,
+                "InitialPopulation": 14753,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0213
+            },
+            "NodeID": 53216
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.1775,
+                "Longitude": -75.1218,
+                "InitialPopulation": 20205,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.1039
+            },
+            "NodeID": 53217
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3053,
+                "Longitude": -75.9212,
+                "InitialPopulation": 6960,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0919
+            },
+            "NodeID": 53218
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.9041,
+                "Longitude": -76.5731,
+                "InitialPopulation": 168843,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 1.3939
+            },
+            "NodeID": 53219
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.6357,
+                "Longitude": -76.4231,
+                "InitialPopulation": 25655,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.2186
+            },
+            "NodeID": 53220
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.705,
+                "Longitude": -75.1215,
+                "InitialPopulation": 9034,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0241
+            },
+            "NodeID": 53221
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1624,
+                "Longitude": -75.8248,
+                "InitialPopulation": 5923,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0747
+            },
+            "NodeID": 53222
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4308,
+                "Longitude": -75.3433,
+                "InitialPopulation": 56503,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.2073
+            },
+            "NodeID": 53223
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3561,
+                "Longitude": -75.6021,
+                "InitialPopulation": 513761,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 5.6978
+            },
+            "NodeID": 53224
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.6241,
+                "Longitude": -75.6569,
+                "InitialPopulation": 8245,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0474
+            },
+            "NodeID": 53225
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7139,
+                "Longitude": -76.0305,
+                "InitialPopulation": 11060,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0407
+            },
+            "NodeID": 53226
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.184,
+                "Longitude": -75.9732,
+                "InitialPopulation": 15423,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.179
+            },
+            "NodeID": 53227
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8447,
+                "Longitude": -76.0559,
+                "InitialPopulation": 29030,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0802
+            },
+            "NodeID": 53228
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.1105,
+                "Longitude": -75.5736,
+                "InitialPopulation": 9173,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0259
+            },
+            "NodeID": 53229
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.812,
+                "Longitude": -75.917,
+                "InitialPopulation": 6873,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0394
+            },
+            "NodeID": 53230
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.6667,
+                "Longitude": -75.234,
+                "InitialPopulation": 47250,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.8376
+            },
+            "NodeID": 53231
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.8376,
+                "Longitude": -76.0308,
+                "InitialPopulation": 19253,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.1245
+            },
+            "NodeID": 53232
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4256,
+                "Longitude": -75.9915,
+                "InitialPopulation": 8770,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0489
+            },
+            "NodeID": 53233
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0391,
+                "Longitude": -75.6391,
+                "InitialPopulation": 69785,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.9324
+            },
+            "NodeID": 53234
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.0343,
+                "Longitude": -75.3152,
+                "InitialPopulation": 10508,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0278
+            },
+            "NodeID": 53235
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3265,
+                "Longitude": -74.7419,
+                "InitialPopulation": 5928,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0552
+            },
+            "NodeID": 53236
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5414,
+                "Longitude": -75.6696,
+                "InitialPopulation": 7164,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0664
+            },
+            "NodeID": 53237
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.8009,
+                "Longitude": -76.6627,
+                "InitialPopulation": 41605,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.4183
+            },
+            "NodeID": 53238
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.7481,
+                "Longitude": -75.3213,
+                "InitialPopulation": 3609,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0086
+            },
+            "NodeID": 53239
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.8428,
+                "Longitude": -75.0135,
+                "InitialPopulation": 94417,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 2.1997
+            },
+            "NodeID": 53240
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.6554,
+                "Longitude": -76.6386,
+                "InitialPopulation": 76700,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.3635
+            },
+            "NodeID": 53241
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.5451,
+                "Longitude": -75.0941,
+                "InitialPopulation": 6070,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0516
+            },
+            "NodeID": 53242
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0058,
+                "Longitude": -75.1698,
+                "InitialPopulation": 17485,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0129
+            },
+            "NodeID": 53243
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3809,
+                "Longitude": -75.2338,
+                "InitialPopulation": 5263,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.0153
+            },
+            "NodeID": 53244
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.063,
+                "Longitude": -75.9154,
+                "InitialPopulation": 18707,
+                "FacilityName": "Abejorral",
+                "LarvalHabitatMultiplier": 0.2453
+            },
+            "NodeID": 53245
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3522,
+                "Longitude": -75.5187,
+                "InitialPopulation": 175544,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 2.2845
+            },
+            "NodeID": 53246
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.9958,
+                "Longitude": -76.3248,
+                "InitialPopulation": 22583,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.1216
+            },
+            "NodeID": 53247
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4981,
+                "Longitude": -75.3686,
+                "InitialPopulation": 21613,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.064
+            },
+            "NodeID": 53248
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3239,
+                "Longitude": -75.8041,
+                "InitialPopulation": 10101,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.1076
+            },
+            "NodeID": 53249
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.7444,
+                "Longitude": -74.6789,
+                "InitialPopulation": 56537,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.5921
+            },
+            "NodeID": 53250
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9598,
+                "Longitude": -75.2687,
+                "InitialPopulation": 42646,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0136
+            },
+            "NodeID": 53251
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1234,
+                "Longitude": -75.2667,
+                "InitialPopulation": 24452,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0077
+            },
+            "NodeID": 53252
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.59,
+                "Longitude": -75.5716,
+                "InitialPopulation": 8401,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0069
+            },
+            "NodeID": 53253
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1454,
+                "Longitude": -75.5871,
+                "InitialPopulation": 240108,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 2.7914
+            },
+            "NodeID": 53254
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8787,
+                "Longitude": -75.6978,
+                "InitialPopulation": 19718,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.2133
+            },
+            "NodeID": 53255
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.7093,
+                "Longitude": -76.3193,
+                "InitialPopulation": 18557,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.1179
+            },
+            "NodeID": 53256
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.6985,
+                "Longitude": -75.2055,
+                "InitialPopulation": 15183,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0513
+            },
+            "NodeID": 53257
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.6613,
+                "Longitude": -75.9559,
+                "InitialPopulation": 3748,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0315
+            },
+            "NodeID": 53258
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3679,
+                "Longitude": -75.4623,
+                "InitialPopulation": 62920,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.1975
+            },
+            "NodeID": 53259
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1141,
+                "Longitude": -75.1405,
+                "InitialPopulation": 15712,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0138
+            },
+            "NodeID": 53260
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.8558,
+                "Longitude": -75.2382,
+                "InitialPopulation": 3836,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0103
+            },
+            "NodeID": 53261
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.2636,
+                "Longitude": -75.4505,
+                "InitialPopulation": 128502,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 1.1545
+            },
+            "NodeID": 53262
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.2289,
+                "Longitude": -75.1732,
+                "InitialPopulation": 7308,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0142
+            },
+            "NodeID": 53263
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.2224,
+                "Longitude": -75.7632,
+                "InitialPopulation": 6735,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0674
+            },
+            "NodeID": 53264
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7705,
+                "Longitude": -75.9457,
+                "InitialPopulation": 2973,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0194
+            },
+            "NodeID": 53265
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1787,
+                "Longitude": -75.6312,
+                "InitialPopulation": 215018,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 3.5193
+            },
+            "NodeID": 53266
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.2567,
+                "Longitude": -75.8705,
+                "InitialPopulation": 23004,
+                "FacilityName": "Abriaqui",
+                "LarvalHabitatMultiplier": 0.0924
+            },
+            "NodeID": 53267
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5733,
+                "Longitude": -75.8325,
+                "InitialPopulation": 18556,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0054
+            },
+            "NodeID": 53268
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7626,
+                "Longitude": -75.7758,
+                "InitialPopulation": 12177,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0676
+            },
+            "NodeID": 53269
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9962,
+                "Longitude": -75.4472,
+                "InitialPopulation": 42820,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0274
+            },
+            "NodeID": 53270
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1407,
+                "Longitude": -75.6664,
+                "InitialPopulation": 65512,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 1.4218
+            },
+            "NodeID": 53271
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9406,
+                "Longitude": -75.3706,
+                "InitialPopulation": 24117,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0092
+            },
+            "NodeID": 53272
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.7222,
+                "Longitude": -75.7985,
+                "InitialPopulation": 9681,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0399
+            },
+            "NodeID": 53273
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.5198,
+                "Longitude": -74.7352,
+                "InitialPopulation": 9407,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0772
+            },
+            "NodeID": 53274
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1665,
+                "Longitude": -75.3206,
+                "InitialPopulation": 60937,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0224
+            },
+            "NodeID": 53275
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.2652,
+                "Longitude": -75.6364,
+                "InitialPopulation": 2036235,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 26.091
+            },
+            "NodeID": 53276
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9133,
+                "Longitude": -75.5308,
+                "InitialPopulation": 7619,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0464
+            },
+            "NodeID": 53277
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.7924,
+                "Longitude": -76.7203,
+                "InitialPopulation": 5503,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.045
+            },
+            "NodeID": 53278
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.3233,
+                "Longitude": -76.4527,
+                "InitialPopulation": 14003,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0653
+            },
+            "NodeID": 53279
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5842,
+                "Longitude": -75.2174,
+                "InitialPopulation": 15821,
+                "FacilityName": "Alejandria",
+                "LarvalHabitatMultiplier": 0.0136
+            },
+            "NodeID": 53280
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.998,
+                "Longitude": -74.8578,
+                "InitialPopulation": 15954,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.3115
+            },
+            "NodeID": 53281
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.5247,
+                "Longitude": -76.6739,
+                "InitialPopulation": 54650,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.4232
+            },
+            "NodeID": 53282
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.6035,
+                "Longitude": -75.7861,
+                "InitialPopulation": 8732,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.08
+            },
+            "NodeID": 53283
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.2438,
+                "Longitude": -75.2394,
+                "InitialPopulation": 18443,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.0061
+            },
+            "NodeID": 53284
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.0457,
+                "Longitude": -75.8853,
+                "InitialPopulation": 9370,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.0288
+            },
+            "NodeID": 53285
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.795,
+                "Longitude": -75.8762,
+                "InitialPopulation": 11457,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.0847
+            },
+            "NodeID": 53286
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4716,
+                "Longitude": -74.5393,
+                "InitialPopulation": 37812,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.6463
+            },
+            "NodeID": 53287
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1108,
+                "Longitude": -74.7134,
+                "InitialPopulation": 14736,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.1671
+            },
+            "NodeID": 53288
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9396,
+                "Longitude": -74.7041,
+                "InitialPopulation": 17423,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.2962
+            },
+            "NodeID": 53289
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.9736,
+                "Longitude": -74.5726,
+                "InitialPopulation": 27776,
+                "FacilityName": "Amaga",
+                "LarvalHabitatMultiplier": 0.2275
+            },
+            "NodeID": 53290
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0703,
+                "Longitude": -75.5304,
+                "InitialPopulation": 136183,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 1.188
+            },
+            "NodeID": 53291
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1535,
+                "Longitude": -75.4269,
+                "InitialPopulation": 142475,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.2583
+            },
+            "NodeID": 53292
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.8954,
+                "Longitude": -75.804,
+                "InitialPopulation": 8307,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0528
+            },
+            "NodeID": 53293
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1289,
+                "Longitude": -75.6274,
+                "InitialPopulation": 49719,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.3169
+            },
+            "NodeID": 53294
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9918,
+                "Longitude": -76.0297,
+                "InitialPopulation": 21492,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.1677
+            },
+            "NodeID": 53295
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.9346,
+                "Longitude": -75.6599,
+                "InitialPopulation": 5226,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0178
+            },
+            "NodeID": 53296
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1827,
+                "Longitude": -74.9125,
+                "InitialPopulation": 17970,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0586
+            },
+            "NodeID": 53297
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8597,
+                "Longitude": -74.979,
+                "InitialPopulation": 5695,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0239
+            },
+            "NodeID": 53298
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4382,
+                "Longitude": -75.7272,
+                "InitialPopulation": 14192,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.2091
+            },
+            "NodeID": 53299
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.822,
+                "Longitude": -75.6976,
+                "InitialPopulation": 5015,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0103
+            },
+            "NodeID": 532100
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.6717,
+                "Longitude": -76.5055,
+                "InitialPopulation": 25311,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.2066
+            },
+            "NodeID": 532101
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0039,
+                "Longitude": -74.9601,
+                "InitialPopulation": 9661,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.043
+            },
+            "NodeID": 532102
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4524,
+                "Longitude": -75.5735,
+                "InitialPopulation": 25085,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0569
+            },
+            "NodeID": 532103
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 8.4229,
+                "Longitude": -76.3175,
+                "InitialPopulation": 35551,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.2829
+            },
+            "NodeID": 532104
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3032,
+                "Longitude": -75.0146,
+                "InitialPopulation": 14307,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.052
+            },
+            "NodeID": 532105
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4442,
+                "Longitude": -74.9525,
+                "InitialPopulation": 16046,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0834
+            },
+            "NodeID": 532106
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3044,
+                "Longitude": -75.3364,
+                "InitialPopulation": 19021,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0197
+            },
+            "NodeID": 532107
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8541,
+                "Longitude": -75.5998,
+                "InitialPopulation": 24876,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.2064
+            },
+            "NodeID": 532108
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.5354,
+                "Longitude": -75.9157,
+                "InitialPopulation": 16900,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.1524
+            },
+            "NodeID": 532109
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.6699,
+                "Longitude": -75.46,
+                "InitialPopulation": 39371,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0304
+            },
+            "NodeID": 532110
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4735,
+                "Longitude": -75.1546,
+                "InitialPopulation": 12487,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.058
+            },
+            "NodeID": 532111
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.2477,
+                "Longitude": -74.6588,
+                "InitialPopulation": 40814,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.1828
+            },
+            "NodeID": 532112
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7469,
+                "Longitude": -75.0808,
+                "InitialPopulation": 37614,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.2199
+            },
+            "NodeID": 532113
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.5152,
+                "Longitude": -75.7626,
+                "InitialPopulation": 14485,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.131
+            },
+            "NodeID": 532114
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6705,
+                "Longitude": -75.7215,
+                "InitialPopulation": 16055,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0713
+            },
+            "NodeID": 532115
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.493,
+                "Longitude": -75.5049,
+                "InitialPopulation": 41781,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.3132
+            },
+            "NodeID": 532116
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.869,
+                "Longitude": -75.8466,
+                "InitialPopulation": 7227,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0824
+            },
+            "NodeID": 532117
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0563,
+                "Longitude": -75.8186,
+                "InitialPopulation": 14721,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.1948
+            },
+            "NodeID": 532118
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.0056,
+                "Longitude": -75.7217,
+                "InitialPopulation": 6118,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0759
+            },
+            "NodeID": 532119
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.9556,
+                "Longitude": -76.7371,
+                "InitialPopulation": 163967,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 1.8608
+            },
+            "NodeID": 532120
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.9601,
+                "Longitude": -76.111,
+                "InitialPopulation": 5650,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0428
+            },
+            "NodeID": 532121
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3423,
+                "Longitude": -76.2658,
+                "InitialPopulation": 44821,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.1124
+            },
+            "NodeID": 532122
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.2739,
+                "Longitude": -75.3957,
+                "InitialPopulation": 18746,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0792
+            },
+            "NodeID": 532123
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.652,
+                "Longitude": -75.6541,
+                "InitialPopulation": 7392,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0914
+            },
+            "NodeID": 532124
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.8167,
+                "Longitude": -74.787,
+                "InitialPopulation": 10382,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0649
+            },
+            "NodeID": 532125
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9542,
+                "Longitude": -75.799,
+                "InitialPopulation": 14873,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.1793
+            },
+            "NodeID": 532126
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3851,
+                "Longitude": -76.6628,
+                "InitialPopulation": 7255,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0461
+            },
+            "NodeID": 532127
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.7026,
+                "Longitude": -74.7902,
+                "InitialPopulation": 9524,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0576
+            },
+            "NodeID": 532128
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.9884,
+                "Longitude": -75.4678,
+                "InitialPopulation": 43593,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.0532
+            },
+            "NodeID": 532129
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.634,
+                "Longitude": -74.9387,
+                "InitialPopulation": 25896,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.1735
+            },
+            "NodeID": 532130
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.9074,
+                "Longitude": -74.1769,
+                "InitialPopulation": 14943,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.2392
+            },
+            "NodeID": 532131
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 7.4829,
+                "Longitude": -74.8756,
+                "InitialPopulation": 35449,
+                "FacilityName": "Amalfi",
+                "LarvalHabitatMultiplier": 0.5118
+            },
+            "NodeID": 532132
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 0,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "2018-04-16",
+        "IdReference": "Antioquia",
+        "NodeCount": 124,
+        "Tool": "create_admin2_demographics_aedes_info.R"
+    }
+}
+

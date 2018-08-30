@@ -1,0 +1,127 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 2.8097,
+                "Longitude": -70.2692,
+                "InitialPopulation": 2816,
+                "FacilityName": "Mapiripana",
+                "LarvalHabitatMultiplier": 0.0648
+            },
+            "NodeID": 5394663
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.3138,
+                "Longitude": -69.3989,
+                "InitialPopulation": 4903,
+                "FacilityName": "BarrancoMinas",
+                "LarvalHabitatMultiplier": 0.1128
+            },
+            "NodeID": 5394343
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.3193,
+                "Longitude": -68.4574,
+                "InitialPopulation": 19983,
+                "FacilityName": "Inirida",
+                "LarvalHabitatMultiplier": 0.4599
+            },
+            "NodeID": 5394001
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 3.3861,
+                "Longitude": -67.5852,
+                "InitialPopulation": 2582,
+                "FacilityName": "Cacahual",
+                "LarvalHabitatMultiplier": 0.0594
+            },
+            "NodeID": 5394886
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 2.5075,
+                "Longitude": -68.2093,
+                "InitialPopulation": 4833,
+                "FacilityName": "PuertoColombia",
+                "LarvalHabitatMultiplier": 0.1112
+            },
+            "NodeID": 5394884
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.4062,
+                "Longitude": -67.0038,
+                "InitialPopulation": 374,
+                "FacilityName": "LaGuadalupe",
+                "LarvalHabitatMultiplier": 0.0086
+            },
+            "NodeID": 5394885
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 2.4219,
+                "Longitude": -69.8406,
+                "InitialPopulation": 1247,
+                "FacilityName": "Morichal",
+                "LarvalHabitatMultiplier": 0.0287
+            },
+            "NodeID": 5394888
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.982,
+                "Longitude": -69.1166,
+                "InitialPopulation": 3253,
+                "FacilityName": "PanaPana",
+                "LarvalHabitatMultiplier": 0.0749
+            },
+            "NodeID": 5394887
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 2.1469,
+                "Longitude": -67.3421,
+                "InitialPopulation": 2132,
+                "FacilityName": "SanFelipe",
+                "LarvalHabitatMultiplier": 0.0491
+            },
+            "NodeID": 5394883
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Guainia",
+        "NodeCount": 9,
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R"
+    }
+}
+

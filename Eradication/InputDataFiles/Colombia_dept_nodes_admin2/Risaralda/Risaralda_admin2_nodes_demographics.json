@@ -1,0 +1,177 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 4.8334,
+                "Longitude": -75.5492,
+                "InitialPopulation": 72434,
+                "FacilityName": "SantaRosadeCabal",
+                "LarvalHabitatMultiplier": 1.6672
+            },
+            "NodeID": 5366682
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.8412,
+                "Longitude": -75.6696,
+                "InitialPopulation": 200832,
+                "FacilityName": "Dosquebradas",
+                "LarvalHabitatMultiplier": 4.6224
+            },
+            "NodeID": 5366170
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.9438,
+                "Longitude": -75.753,
+                "InitialPopulation": 23504,
+                "FacilityName": "Marsella",
+                "LarvalHabitatMultiplier": 0.541
+            },
+            "NodeID": 5366440
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.1378,
+                "Longitude": -75.9536,
+                "InitialPopulation": 19129,
+                "FacilityName": "Apia",
+                "LarvalHabitatMultiplier": 0.4403
+            },
+            "NodeID": 5366045
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3239,
+                "Longitude": -75.7089,
+                "InitialPopulation": 33816,
+                "FacilityName": "Quinchia",
+                "LarvalHabitatMultiplier": 0.7783
+            },
+            "NodeID": 5366594
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.9045,
+                "Longitude": -75.8525,
+                "InitialPopulation": 32112,
+                "FacilityName": "LaVirginia",
+                "LarvalHabitatMultiplier": 0.7391
+            },
+            "NodeID": 5366400
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.9179,
+                "Longitude": -75.9429,
+                "InitialPopulation": 6331,
+                "FacilityName": "Balboa",
+                "LarvalHabitatMultiplier": 0.1457
+            },
+            "NodeID": 5366075
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.7814,
+                "Longitude": -75.7136,
+                "InitialPopulation": 472000,
+                "FacilityName": "Pereira",
+                "LarvalHabitatMultiplier": 10.8637
+            },
+            "NodeID": 5366001
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.9891,
+                "Longitude": -76.0106,
+                "InitialPopulation": 8580,
+                "FacilityName": "LaCelia",
+                "LarvalHabitatMultiplier": 0.1975
+            },
+            "NodeID": 5366383
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.0466,
+                "Longitude": -75.9829,
+                "InitialPopulation": 15751,
+                "FacilityName": "Santuario",
+                "LarvalHabitatMultiplier": 0.3625
+            },
+            "NodeID": 5366687
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2004,
+                "Longitude": -75.868,
+                "InitialPopulation": 27724,
+                "FacilityName": "BelendeUmbria",
+                "LarvalHabitatMultiplier": 0.6381
+            },
+            "NodeID": 5366088
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2869,
+                "Longitude": -76.073,
+                "InitialPopulation": 13458,
+                "FacilityName": "PuebloRico",
+                "LarvalHabitatMultiplier": 0.3098
+            },
+            "NodeID": 5366572
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4143,
+                "Longitude": -75.9601,
+                "InitialPopulation": 16318,
+                "FacilityName": "Mistrato",
+                "LarvalHabitatMultiplier": 0.3756
+            },
+            "NodeID": 5366456
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3206,
+                "Longitude": -75.8045,
+                "InitialPopulation": 15265,
+                "FacilityName": "Guatica",
+                "LarvalHabitatMultiplier": 0.3513
+            },
+            "NodeID": 5366318
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Risaralda",
+        "NodeCount": 14,
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R"
+    }
+}
+

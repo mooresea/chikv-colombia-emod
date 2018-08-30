@@ -1,0 +1,1267 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 6.8868,
+                "Longitude": -72.1816,
+                "InitialPopulation": 6730,
+                "FacilityName": "Cubara",
+                "LarvalHabitatMultiplier": 0.1549
+            },
+            "NodeID": 5315223
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.5665,
+                "Longitude": -72.2549,
+                "InitialPopulation": 6801,
+                "FacilityName": "Guican",
+                "LarvalHabitatMultiplier": 0.1565
+            },
+            "NodeID": 5315332
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3527,
+                "Longitude": -72.419,
+                "InitialPopulation": 5197,
+                "FacilityName": "ElCocuy",
+                "LarvalHabitatMultiplier": 0.1196
+            },
+            "NodeID": 5315244
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4067,
+                "Longitude": -72.5604,
+                "InitialPopulation": 3582,
+                "FacilityName": "SanMateo",
+                "LarvalHabitatMultiplier": 0.0824
+            },
+            "NodeID": 5315673
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.336,
+                "Longitude": -72.6199,
+                "InitialPopulation": 6914,
+                "FacilityName": "Boavita",
+                "LarvalHabitatMultiplier": 0.1591
+            },
+            "NodeID": 5315097
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.2648,
+                "Longitude": -72.5553,
+                "InitialPopulation": 2435,
+                "FacilityName": "LaUvita",
+                "LarvalHabitatMultiplier": 0.056
+            },
+            "NodeID": 5315403
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0743,
+                "Longitude": -72.4362,
+                "InitialPopulation": 9407,
+                "FacilityName": "Chita",
+                "LarvalHabitatMultiplier": 0.2165
+            },
+            "NodeID": 5315183
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.2154,
+                "Longitude": -72.7161,
+                "InitialPopulation": 3027,
+                "FacilityName": "Susacon",
+                "LarvalHabitatMultiplier": 0.0697
+            },
+            "NodeID": 5315774
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.132,
+                "Longitude": -72.7305,
+                "InitialPopulation": 2306,
+                "FacilityName": "Sativanorte",
+                "LarvalHabitatMultiplier": 0.0531
+            },
+            "NodeID": 5315720
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.1445,
+                "Longitude": -72.5858,
+                "InitialPopulation": 3956,
+                "FacilityName": "Jerico",
+                "LarvalHabitatMultiplier": 0.0911
+            },
+            "NodeID": 5315368
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9298,
+                "Longitude": -72.5549,
+                "InitialPopulation": 7934,
+                "FacilityName": "Socota",
+                "LarvalHabitatMultiplier": 0.1826
+            },
+            "NodeID": 5315755
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9593,
+                "Longitude": -72.6814,
+                "InitialPopulation": 7092,
+                "FacilityName": "Socha",
+                "LarvalHabitatMultiplier": 0.1632
+            },
+            "NodeID": 5315757
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.633,
+                "Longitude": -72.3755,
+                "InitialPopulation": 2537,
+                "FacilityName": "Paya",
+                "LarvalHabitatMultiplier": 0.0584
+            },
+            "NodeID": 5315533
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7448,
+                "Longitude": -72.4459,
+                "InitialPopulation": 1323,
+                "FacilityName": "Pisba",
+                "LarvalHabitatMultiplier": 0.0305
+            },
+            "NodeID": 5315550
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5407,
+                "Longitude": -72.6006,
+                "InitialPopulation": 5068,
+                "FacilityName": "Labranzagrande",
+                "LarvalHabitatMultiplier": 0.1166
+            },
+            "NodeID": 5315377
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3822,
+                "Longitude": -72.6949,
+                "InitialPopulation": 1670,
+                "FacilityName": "Pajarito",
+                "LarvalHabitatMultiplier": 0.0384
+            },
+            "NodeID": 5315518
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4324,
+                "Longitude": -72.8824,
+                "InitialPopulation": 15060,
+                "FacilityName": "Aquitania",
+                "LarvalHabitatMultiplier": 0.3466
+            },
+            "NodeID": 5315047
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6171,
+                "Longitude": -72.9696,
+                "InitialPopulation": 2373,
+                "FacilityName": "Iza",
+                "LarvalHabitatMultiplier": 0.0546
+            },
+            "NodeID": 5315362
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6684,
+                "Longitude": -72.886,
+                "InitialPopulation": 112790,
+                "FacilityName": "Sogamoso",
+                "LarvalHabitatMultiplier": 2.596
+            },
+            "NodeID": 5315759
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7086,
+                "Longitude": -72.6934,
+                "InitialPopulation": 4657,
+                "FacilityName": "Mongua",
+                "LarvalHabitatMultiplier": 0.1072
+            },
+            "NodeID": 5315464
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8033,
+                "Longitude": -72.7351,
+                "InitialPopulation": 4776,
+                "FacilityName": "Gameza",
+                "LarvalHabitatMultiplier": 0.1099
+            },
+            "NodeID": 5315296
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8232,
+                "Longitude": -72.8457,
+                "InitialPopulation": 2251,
+                "FacilityName": "Corrales",
+                "LarvalHabitatMultiplier": 0.0518
+            },
+            "NodeID": 5315215
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8464,
+                "Longitude": -72.8747,
+                "InitialPopulation": 1192,
+                "FacilityName": "Busbanza",
+                "LarvalHabitatMultiplier": 0.0274
+            },
+            "NodeID": 5315114
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8929,
+                "Longitude": -72.9939,
+                "InitialPopulation": 13407,
+                "FacilityName": "SantaRosadeViterbo",
+                "LarvalHabitatMultiplier": 0.3086
+            },
+            "NodeID": 5315693
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8824,
+                "Longitude": -72.7264,
+                "InitialPopulation": 6296,
+                "FacilityName": "Tasco",
+                "LarvalHabitatMultiplier": 0.1449
+            },
+            "NodeID": 5315790
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.921,
+                "Longitude": -72.8486,
+                "InitialPopulation": 2024,
+                "FacilityName": "Beteitiva",
+                "LarvalHabitatMultiplier": 0.0466
+            },
+            "NodeID": 5315092
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0052,
+                "Longitude": -72.8951,
+                "InitialPopulation": 7255,
+                "FacilityName": "Belen",
+                "LarvalHabitatMultiplier": 0.167
+            },
+            "NodeID": 5315087
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.029,
+                "Longitude": -72.7673,
+                "InitialPopulation": 4618,
+                "FacilityName": "PazdeRio",
+                "LarvalHabitatMultiplier": 0.1063
+            },
+            "NodeID": 5315537
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8928,
+                "Longitude": -73.069,
+                "InitialPopulation": 113105,
+                "FacilityName": "Duitama",
+                "LarvalHabitatMultiplier": 2.6033
+            },
+            "NodeID": 5315238
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7482,
+                "Longitude": -73.0111,
+                "InitialPopulation": 14196,
+                "FacilityName": "Tibasosa",
+                "LarvalHabitatMultiplier": 0.3267
+            },
+            "NodeID": 5315806
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8292,
+                "Longitude": -73.1407,
+                "InitialPopulation": 31021,
+                "FacilityName": "Paipa",
+                "LarvalHabitatMultiplier": 0.714
+            },
+            "NodeID": 5315516
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7852,
+                "Longitude": -73.2538,
+                "InitialPopulation": 7578,
+                "FacilityName": "Sotaquira",
+                "LarvalHabitatMultiplier": 0.1744
+            },
+            "NodeID": 5315763
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6723,
+                "Longitude": -73.1827,
+                "InitialPopulation": 9734,
+                "FacilityName": "Tuta",
+                "LarvalHabitatMultiplier": 0.224
+            },
+            "NodeID": 5315837
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6885,
+                "Longitude": -73.3297,
+                "InitialPopulation": 14812,
+                "FacilityName": "Combita",
+                "LarvalHabitatMultiplier": 0.3409
+            },
+            "NodeID": 5315204
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3538,
+                "Longitude": -73.449,
+                "InitialPopulation": 6602,
+                "FacilityName": "NuevoColon",
+                "LarvalHabitatMultiplier": 0.152
+            },
+            "NodeID": 5315494
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2303,
+                "Longitude": -73.0994,
+                "InitialPopulation": 1934,
+                "FacilityName": "Berbeo",
+                "LarvalHabitatMultiplier": 0.0445
+            },
+            "NodeID": 5315090
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2362,
+                "Longitude": -73.0489,
+                "InitialPopulation": 1867,
+                "FacilityName": "SanEduardo",
+                "LarvalHabitatMultiplier": 0.043
+            },
+            "NodeID": 5315660
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.1515,
+                "Longitude": -73.1805,
+                "InitialPopulation": 9779,
+                "FacilityName": "Miraflores",
+                "LarvalHabitatMultiplier": 0.2251
+            },
+            "NodeID": 5315455
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.0952,
+                "Longitude": -73.0046,
+                "InitialPopulation": 2867,
+                "FacilityName": "Paez",
+                "LarvalHabitatMultiplier": 0.066
+            },
+            "NodeID": 5315514
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.0068,
+                "Longitude": -73.1451,
+                "InitialPopulation": 3813,
+                "FacilityName": "Campohermoso",
+                "LarvalHabitatMultiplier": 0.0878
+            },
+            "NodeID": 5315135
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.8153,
+                "Longitude": -73.1237,
+                "InitialPopulation": 4996,
+                "FacilityName": "SanLuisdeGaceno",
+                "LarvalHabitatMultiplier": 0.115
+            },
+            "NodeID": 5315667
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.8228,
+                "Longitude": -73.2537,
+                "InitialPopulation": 3918,
+                "FacilityName": "SantaMaria",
+                "LarvalHabitatMultiplier": 0.0902
+            },
+            "NodeID": 5315690
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.8713,
+                "Longitude": -73.3616,
+                "InitialPopulation": 1752,
+                "FacilityName": "Chivor",
+                "LarvalHabitatMultiplier": 0.0403
+            },
+            "NodeID": 5315236
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.9313,
+                "Longitude": -73.4964,
+                "InitialPopulation": 5013,
+                "FacilityName": "Guayata",
+                "LarvalHabitatMultiplier": 0.1154
+            },
+            "NodeID": 5315325
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.0136,
+                "Longitude": -73.4858,
+                "InitialPopulation": 9552,
+                "FacilityName": "Guateque",
+                "LarvalHabitatMultiplier": 0.2199
+            },
+            "NodeID": 5315322
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.0268,
+                "Longitude": -73.4319,
+                "InitialPopulation": 4033,
+                "FacilityName": "Sutatenza",
+                "LarvalHabitatMultiplier": 0.0928
+            },
+            "NodeID": 5315778
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.1133,
+                "Longitude": -73.459,
+                "InitialPopulation": 2499,
+                "FacilityName": "LaCapilla",
+                "LarvalHabitatMultiplier": 0.0575
+            },
+            "NodeID": 5315380
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.0895,
+                "Longitude": -73.3144,
+                "InitialPopulation": 16974,
+                "FacilityName": "Garagoa",
+                "LarvalHabitatMultiplier": 0.3907
+            },
+            "NodeID": 5315299
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.1483,
+                "Longitude": -73.3997,
+                "InitialPopulation": 2453,
+                "FacilityName": "Pachavita",
+                "LarvalHabitatMultiplier": 0.0565
+            },
+            "NodeID": 5315511
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2175,
+                "Longitude": -73.4632,
+                "InitialPopulation": 10322,
+                "FacilityName": "Umbita",
+                "LarvalHabitatMultiplier": 0.2376
+            },
+            "NodeID": 5315842
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3065,
+                "Longitude": -73.5092,
+                "InitialPopulation": 6050,
+                "FacilityName": "Turmeque",
+                "LarvalHabitatMultiplier": 0.1392
+            },
+            "NodeID": 5315835
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3839,
+                "Longitude": -73.5194,
+                "InitialPopulation": 15532,
+                "FacilityName": "Ventaquemada",
+                "LarvalHabitatMultiplier": 0.3575
+            },
+            "NodeID": 5315861
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4701,
+                "Longitude": -73.5221,
+                "InitialPopulation": 20116,
+                "FacilityName": "Samaca",
+                "LarvalHabitatMultiplier": 0.463
+            },
+            "NodeID": 5315646
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6666,
+                "Longitude": -73.5115,
+                "InitialPopulation": 16984,
+                "FacilityName": "VilladeLeyva",
+                "LarvalHabitatMultiplier": 0.3909
+            },
+            "NodeID": 5315407
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.53,
+                "Longitude": -73.7502,
+                "InitialPopulation": 4548,
+                "FacilityName": "SanMigueldeSema",
+                "LarvalHabitatMultiplier": 0.1047
+            },
+            "NodeID": 5315676
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4939,
+                "Longitude": -73.6273,
+                "InitialPopulation": 13682,
+                "FacilityName": "Raquira",
+                "LarvalHabitatMultiplier": 0.3149
+            },
+            "NodeID": 5315600
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5744,
+                "Longitude": -73.5434,
+                "InitialPopulation": 3780,
+                "FacilityName": "Sachica",
+                "LarvalHabitatMultiplier": 0.087
+            },
+            "NodeID": 5315638
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5733,
+                "Longitude": -73.6772,
+                "InitialPopulation": 3039,
+                "FacilityName": "Tinjaca",
+                "LarvalHabitatMultiplier": 0.0699
+            },
+            "NodeID": 5315808
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6419,
+                "Longitude": -73.6219,
+                "InitialPopulation": 5890,
+                "FacilityName": "Sutamarchan",
+                "LarvalHabitatMultiplier": 0.1356
+            },
+            "NodeID": 5315776
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6214,
+                "Longitude": -73.8006,
+                "InitialPopulation": 66203,
+                "FacilityName": "Chiquinquira",
+                "LarvalHabitatMultiplier": 1.5238
+            },
+            "NodeID": 5315176
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.749,
+                "Longitude": -73.4397,
+                "InitialPopulation": 5243,
+                "FacilityName": "Arcabuco",
+                "LarvalHabitatMultiplier": 0.1207
+            },
+            "NodeID": 5315051
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7309,
+                "Longitude": -73.6027,
+                "InitialPopulation": 2658,
+                "FacilityName": "SantaSofia",
+                "LarvalHabitatMultiplier": 0.0612
+            },
+            "NodeID": 5315696
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8623,
+                "Longitude": -73.5592,
+                "InitialPopulation": 21345,
+                "FacilityName": "Moniquira",
+                "LarvalHabitatMultiplier": 0.4913
+            },
+            "NodeID": 5315469
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9166,
+                "Longitude": -73.4861,
+                "InitialPopulation": 4931,
+                "FacilityName": "Togui",
+                "LarvalHabitatMultiplier": 0.1135
+            },
+            "NodeID": 5315816
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9944,
+                "Longitude": -73.5435,
+                "InitialPopulation": 5158,
+                "FacilityName": "SanJosedePare",
+                "LarvalHabitatMultiplier": 0.1187
+            },
+            "NodeID": 5315664
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7189,
+                "Longitude": -73.9303,
+                "InitialPopulation": 1861,
+                "FacilityName": "Tunungua",
+                "LarvalHabitatMultiplier": 0.0428
+            },
+            "NodeID": 5315832
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6639,
+                "Longitude": -73.9074,
+                "InitialPopulation": 2568,
+                "FacilityName": "Briceno",
+                "LarvalHabitatMultiplier": 0.0591
+            },
+            "NodeID": 5315106
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6859,
+                "Longitude": -74.0031,
+                "InitialPopulation": 10797,
+                "FacilityName": "Pauna",
+                "LarvalHabitatMultiplier": 0.2485
+            },
+            "NodeID": 5315531
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5749,
+                "Longitude": -73.8799,
+                "InitialPopulation": 3596,
+                "FacilityName": "Caldas",
+                "LarvalHabitatMultiplier": 0.0828
+            },
+            "NodeID": 5315131
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4895,
+                "Longitude": -73.9509,
+                "InitialPopulation": 5777,
+                "FacilityName": "Buenavista",
+                "LarvalHabitatMultiplier": 0.133
+            },
+            "NodeID": 5315109
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.57,
+                "Longitude": -74.0215,
+                "InitialPopulation": 7424,
+                "FacilityName": "Maripi",
+                "LarvalHabitatMultiplier": 0.1709
+            },
+            "NodeID": 5315442
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7473,
+                "Longitude": -74.1961,
+                "InitialPopulation": 10671,
+                "FacilityName": "Otanche",
+                "LarvalHabitatMultiplier": 0.2456
+            },
+            "NodeID": 5315507
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9545,
+                "Longitude": -74.4531,
+                "InitialPopulation": 55694,
+                "FacilityName": "PuertoBoyaca",
+                "LarvalHabitatMultiplier": 1.2819
+            },
+            "NodeID": 5315572
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4439,
+                "Longitude": -72.4617,
+                "InitialPopulation": 1452,
+                "FacilityName": "Panqueba",
+                "LarvalHabitatMultiplier": 0.0334
+            },
+            "NodeID": 5315522
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4455,
+                "Longitude": -72.5172,
+                "InitialPopulation": 1657,
+                "FacilityName": "Guacamayas",
+                "LarvalHabitatMultiplier": 0.0381
+            },
+            "NodeID": 5315317
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0707,
+                "Longitude": -72.7149,
+                "InitialPopulation": 1094,
+                "FacilityName": "Sativasur",
+                "LarvalHabitatMultiplier": 0.0252
+            },
+            "NodeID": 5315723
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4889,
+                "Longitude": -73.0068,
+                "InitialPopulation": 5348,
+                "FacilityName": "Tota",
+                "LarvalHabitatMultiplier": 0.1231
+            },
+            "NodeID": 5315822
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4951,
+                "Longitude": -73.0829,
+                "InitialPopulation": 7862,
+                "FacilityName": "Pesca",
+                "LarvalHabitatMultiplier": 0.181
+            },
+            "NodeID": 5315542
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5877,
+                "Longitude": -72.9394,
+                "InitialPopulation": 1892,
+                "FacilityName": "Cuitiva",
+                "LarvalHabitatMultiplier": 0.0435
+            },
+            "NodeID": 5315226
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6737,
+                "Longitude": -73.0188,
+                "InitialPopulation": 5864,
+                "FacilityName": "Firavitoba",
+                "LarvalHabitatMultiplier": 0.135
+            },
+            "NodeID": 5315272
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7788,
+                "Longitude": -72.9337,
+                "InitialPopulation": 16353,
+                "FacilityName": "Nobsa",
+                "LarvalHabitatMultiplier": 0.3764
+            },
+            "NodeID": 5315491
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.697,
+                "Longitude": -72.832,
+                "InitialPopulation": 4985,
+                "FacilityName": "Mongui",
+                "LarvalHabitatMultiplier": 0.1147
+            },
+            "NodeID": 5315466
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7653,
+                "Longitude": -72.8365,
+                "InitialPopulation": 3694,
+                "FacilityName": "Topaga",
+                "LarvalHabitatMultiplier": 0.085
+            },
+            "NodeID": 5315820
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.8592,
+                "Longitude": -72.9255,
+                "InitialPopulation": 4478,
+                "FacilityName": "Floresta",
+                "LarvalHabitatMultiplier": 0.1031
+            },
+            "NodeID": 5315276
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0763,
+                "Longitude": -72.8566,
+                "InitialPopulation": 1854,
+                "FacilityName": "Tutaza",
+                "LarvalHabitatMultiplier": 0.0427
+            },
+            "NodeID": 5315839
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9618,
+                "Longitude": -72.9643,
+                "InitialPopulation": 3714,
+                "FacilityName": "Cerinza",
+                "LarvalHabitatMultiplier": 0.0855
+            },
+            "NodeID": 5315162
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3207,
+                "Longitude": -73.3113,
+                "InitialPopulation": 9926,
+                "FacilityName": "Ramiriqui",
+                "LarvalHabitatMultiplier": 0.2285
+            },
+            "NodeID": 5315599
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3003,
+                "Longitude": -73.3919,
+                "InitialPopulation": 9136,
+                "FacilityName": "Tibana",
+                "LarvalHabitatMultiplier": 0.2103
+            },
+            "NodeID": 5315804
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.2888,
+                "Longitude": -73.1618,
+                "InitialPopulation": 4489,
+                "FacilityName": "Zetaquira",
+                "LarvalHabitatMultiplier": 0.1033
+            },
+            "NodeID": 5315897
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.9796,
+                "Longitude": -73.2941,
+                "InitialPopulation": 4827,
+                "FacilityName": "Macanal",
+                "LarvalHabitatMultiplier": 0.1111
+            },
+            "NodeID": 5315425
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.9549,
+                "Longitude": -73.3881,
+                "InitialPopulation": 1699,
+                "FacilityName": "Almeida",
+                "LarvalHabitatMultiplier": 0.0391
+            },
+            "NodeID": 5315022
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 4.9713,
+                "Longitude": -73.4283,
+                "InitialPopulation": 3555,
+                "FacilityName": "Somondoco",
+                "LarvalHabitatMultiplier": 0.0818
+            },
+            "NodeID": 5315761
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.201,
+                "Longitude": -73.3403,
+                "InitialPopulation": 3499,
+                "FacilityName": "Chinavita",
+                "LarvalHabitatMultiplier": 0.0805
+            },
+            "NodeID": 5315172
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6425,
+                "Longitude": -73.4454,
+                "InitialPopulation": 5433,
+                "FacilityName": "Chiquiza",
+                "LarvalHabitatMultiplier": 0.125
+            },
+            "NodeID": 5315232
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.0587,
+                "Longitude": -73.4864,
+                "InitialPopulation": 7671,
+                "FacilityName": "Santana",
+                "LarvalHabitatMultiplier": 0.1766
+            },
+            "NodeID": 5315686
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.6876,
+                "Longitude": -72.4173,
+                "InitialPopulation": 4200,
+                "FacilityName": "Chiscas",
+                "LarvalHabitatMultiplier": 0.0967
+            },
+            "NodeID": 5315180
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.5079,
+                "Longitude": -72.4808,
+                "InitialPopulation": 4205,
+                "FacilityName": "ElEspino",
+                "LarvalHabitatMultiplier": 0.0968
+            },
+            "NodeID": 5315248
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.5194,
+                "Longitude": -72.7402,
+                "InitialPopulation": 2825,
+                "FacilityName": "Covarachia",
+                "LarvalHabitatMultiplier": 0.065
+            },
+            "NodeID": 5315218
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.4207,
+                "Longitude": -72.6946,
+                "InitialPopulation": 3160,
+                "FacilityName": "Tipacoque",
+                "LarvalHabitatMultiplier": 0.0727
+            },
+            "NodeID": 5315810
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 6.3231,
+                "Longitude": -72.6959,
+                "InitialPopulation": 7069,
+                "FacilityName": "Soata",
+                "LarvalHabitatMultiplier": 0.1627
+            },
+            "NodeID": 5315753
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6109,
+                "Longitude": -73.2801,
+                "InitialPopulation": 2831,
+                "FacilityName": "Oicata",
+                "LarvalHabitatMultiplier": 0.0652
+            },
+            "NodeID": 5315500
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5176,
+                "Longitude": -73.3779,
+                "InitialPopulation": 191924,
+                "FacilityName": "Tunja",
+                "LarvalHabitatMultiplier": 4.4174
+            },
+            "NodeID": 5315001
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5643,
+                "Longitude": -73.2633,
+                "InitialPopulation": 6315,
+                "FacilityName": "Chivata",
+                "LarvalHabitatMultiplier": 0.1453
+            },
+            "NodeID": 5315187
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5803,
+                "Longitude": -73.161,
+                "InitialPopulation": 10106,
+                "FacilityName": "Toca",
+                "LarvalHabitatMultiplier": 0.2326
+            },
+            "NodeID": 5315814
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4897,
+                "Longitude": -73.2098,
+                "InitialPopulation": 8967,
+                "FacilityName": "Siachoque",
+                "LarvalHabitatMultiplier": 0.2064
+            },
+            "NodeID": 5315740
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4928,
+                "Longitude": -73.3183,
+                "InitialPopulation": 5279,
+                "FacilityName": "Soraca",
+                "LarvalHabitatMultiplier": 0.1215
+            },
+            "NodeID": 5315764
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4416,
+                "Longitude": -73.2666,
+                "InitialPopulation": 3201,
+                "FacilityName": "Viracacha",
+                "LarvalHabitatMultiplier": 0.0737
+            },
+            "NodeID": 5315879
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4405,
+                "Longitude": -73.3807,
+                "InitialPopulation": 4414,
+                "FacilityName": "Boyaca",
+                "LarvalHabitatMultiplier": 0.1016
+            },
+            "NodeID": 5315104
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3916,
+                "Longitude": -73.2797,
+                "InitialPopulation": 4694,
+                "FacilityName": "Cienega",
+                "LarvalHabitatMultiplier": 0.108
+            },
+            "NodeID": 5315189
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3777,
+                "Longitude": -73.377,
+                "InitialPopulation": 7659,
+                "FacilityName": "Jenesano",
+                "LarvalHabitatMultiplier": 0.1763
+            },
+            "NodeID": 5315367
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.3608,
+                "Longitude": -73.2054,
+                "InitialPopulation": 2796,
+                "FacilityName": "Rondon",
+                "LarvalHabitatMultiplier": 0.0644
+            },
+            "NodeID": 5315621
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.0707,
+                "Longitude": -73.4251,
+                "InitialPopulation": 4052,
+                "FacilityName": "Tenza",
+                "LarvalHabitatMultiplier": 0.0933
+            },
+            "NodeID": 5315798
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5274,
+                "Longitude": -73.4459,
+                "InitialPopulation": 4687,
+                "FacilityName": "Cucaita",
+                "LarvalHabitatMultiplier": 0.1079
+            },
+            "NodeID": 5315224
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5801,
+                "Longitude": -73.4436,
+                "InitialPopulation": 3027,
+                "FacilityName": "Sora",
+                "LarvalHabitatMultiplier": 0.0697
+            },
+            "NodeID": 5315762
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6055,
+                "Longitude": -73.3771,
+                "InitialPopulation": 8195,
+                "FacilityName": "Motavita",
+                "LarvalHabitatMultiplier": 0.1886
+            },
+            "NodeID": 5315476
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6993,
+                "Longitude": -73.748,
+                "InitialPopulation": 12309,
+                "FacilityName": "Saboya",
+                "LarvalHabitatMultiplier": 0.2833
+            },
+            "NodeID": 5315632
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.7448,
+                "Longitude": -73.5422,
+                "InitialPopulation": 2617,
+                "FacilityName": "Gachantiva",
+                "LarvalHabitatMultiplier": 0.0602
+            },
+            "NodeID": 5315293
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.9828,
+                "Longitude": -73.4253,
+                "InitialPopulation": 5596,
+                "FacilityName": "Chitaraque",
+                "LarvalHabitatMultiplier": 0.1288
+            },
+            "NodeID": 5315185
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.6764,
+                "Longitude": -74.1073,
+                "InitialPopulation": 10478,
+                "FacilityName": "SanPablodeBorbur",
+                "LarvalHabitatMultiplier": 0.2412
+            },
+            "NodeID": 5315681
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.4435,
+                "Longitude": -74.029,
+                "InitialPopulation": 3610,
+                "FacilityName": "Coper",
+                "LarvalHabitatMultiplier": 0.0831
+            },
+            "NodeID": 5315212
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.525,
+                "Longitude": -74.1161,
+                "InitialPopulation": 8914,
+                "FacilityName": "Muzo",
+                "LarvalHabitatMultiplier": 0.2052
+            },
+            "NodeID": 5315480
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5584,
+                "Longitude": -74.216,
+                "InitialPopulation": 7776,
+                "FacilityName": "Quipama",
+                "LarvalHabitatMultiplier": 0.179
+            },
+            "NodeID": 5315580
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 5.5173,
+                "Longitude": -74.2288,
+                "InitialPopulation": 1674,
+                "FacilityName": "LaVictoria",
+                "LarvalHabitatMultiplier": 0.0385
+            },
+            "NodeID": 5315401
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Boyaca",
+        "NodeCount": 123,
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R"
+    }
+}
+

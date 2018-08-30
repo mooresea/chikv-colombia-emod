@@ -1,0 +1,16 @@
+{
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DataProvenance": "",
+        "DatavalueCount": 1460,
+        "DateCreated": "09/05/2017",
+        "IdReference": "Casanare",
+        "NodeCount": 19,
+        "OriginalDataYears": "2013-2016",
+        "StartDayOfYear": "January 1",
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R",
+        "UpdateResolution": "CLIMATE_UPDATE_DAY"
+    },
+    "NodeOffsets": "00522CE00000000000522C54000016D000522BCA00002DA000522CC20000447000522C3F00005B4000522B320000721000522B29000088E000522C0900009FB000522C2F0000B68000522CD60000CD5000522C6D0000E42000522BB30000FAF000522C0E000111C000522B370001289000522CB800013F6000522C630001563000522BB000016D0000522C22000183D000522BA500019AA0"
+}
+

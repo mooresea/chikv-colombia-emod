@@ -1,0 +1,167 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 1.2241,
+                "Longitude": -76.9119,
+                "InitialPopulation": 14223,
+                "FacilityName": "Sibundoy",
+                "LarvalHabitatMultiplier": 0.3274
+            },
+            "NodeID": 5386749
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.0856,
+                "Longitude": -77.005,
+                "InitialPopulation": 10545,
+                "FacilityName": "Santiago",
+                "LarvalHabitatMultiplier": 0.2427
+            },
+            "NodeID": 5386760
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.2356,
+                "Longitude": -77.0067,
+                "InitialPopulation": 5554,
+                "FacilityName": "Colon",
+                "LarvalHabitatMultiplier": 0.1278
+            },
+            "NodeID": 5386219
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.1363,
+                "Longitude": -76.8475,
+                "InitialPopulation": 7120,
+                "FacilityName": "SanFrancisco",
+                "LarvalHabitatMultiplier": 0.1639
+            },
+            "NodeID": 5386755
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.4133,
+                "Longitude": -76.8829,
+                "InitialPopulation": 52454,
+                "FacilityName": "ValledelGuamuez",
+                "LarvalHabitatMultiplier": 1.2073
+            },
+            "NodeID": 5386865
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.3065,
+                "Longitude": -76.8576,
+                "InitialPopulation": 27116,
+                "FacilityName": "SanMiguel",
+                "LarvalHabitatMultiplier": 0.6241
+            },
+            "NodeID": 5386757
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.6729,
+                "Longitude": -76.9432,
+                "InitialPopulation": 53760,
+                "FacilityName": "Orito",
+                "LarvalHabitatMultiplier": 1.2374
+            },
+            "NodeID": 5386320
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.9119,
+                "Longitude": -76.7449,
+                "InitialPopulation": 21215,
+                "FacilityName": "Villagarzon",
+                "LarvalHabitatMultiplier": 0.4883
+            },
+            "NodeID": 5386885
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.2228,
+                "Longitude": -76.6797,
+                "InitialPopulation": 42882,
+                "FacilityName": "Mocoa",
+                "LarvalHabitatMultiplier": 0.987
+            },
+            "NodeID": 5386001
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.4791,
+                "Longitude": -76.3272,
+                "InitialPopulation": 60792,
+                "FacilityName": "PuertoAsis",
+                "LarvalHabitatMultiplier": 1.3992
+            },
+            "NodeID": 5386568
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.7244,
+                "Longitude": -76.4806,
+                "InitialPopulation": 14624,
+                "FacilityName": "PuertoCaicedo",
+                "LarvalHabitatMultiplier": 0.3366
+            },
+            "NodeID": 5386569
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.0617,
+                "Longitude": -75.064,
+                "InitialPopulation": 15417,
+                "FacilityName": "PuertoLeguizamo",
+                "LarvalHabitatMultiplier": 0.3548
+            },
+            "NodeID": 5386573
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.7449,
+                "Longitude": -75.8764,
+                "InitialPopulation": 23835,
+                "FacilityName": "PuertoGuzman",
+                "LarvalHabitatMultiplier": 0.5486
+            },
+            "NodeID": 5386571
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Putumayo",
+        "NodeCount": 13,
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R"
+    }
+}
+

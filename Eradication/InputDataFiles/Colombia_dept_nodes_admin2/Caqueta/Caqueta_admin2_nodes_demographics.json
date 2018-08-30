@@ -1,0 +1,197 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 1.3132,
+                "Longitude": -76.1153,
+                "InitialPopulation": 15029,
+                "FacilityName": "SanJosedelFragua",
+                "LarvalHabitatMultiplier": 0.3459
+            },
+            "NodeID": 5318610
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.077,
+                "Longitude": -75.9617,
+                "InitialPopulation": 11737,
+                "FacilityName": "Curillo",
+                "LarvalHabitatMultiplier": 0.2701
+            },
+            "NodeID": 5318205
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.3786,
+                "Longitude": -75.673,
+                "InitialPopulation": 3836,
+                "FacilityName": "Morelia",
+                "LarvalHabitatMultiplier": 0.0883
+            },
+            "NodeID": 5318479
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.1432,
+                "Longitude": -75.3832,
+                "InitialPopulation": 11774,
+                "FacilityName": "Milan",
+                "LarvalHabitatMultiplier": 0.271
+            },
+            "NodeID": 5318460
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.2297,
+                "Longitude": -75.8852,
+                "InitialPopulation": 6432,
+                "FacilityName": "Albania",
+                "LarvalHabitatMultiplier": 0.148
+            },
+            "NodeID": 5318029
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.0885,
+                "Longitude": -75.6174,
+                "InitialPopulation": 11687,
+                "FacilityName": "Valparaiso",
+                "LarvalHabitatMultiplier": 0.269
+            },
+            "NodeID": 5318860
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.9328,
+                "Longitude": -75.666,
+                "InitialPopulation": 9143,
+                "FacilityName": "Solita",
+                "LarvalHabitatMultiplier": 0.2104
+            },
+            "NodeID": 5318785
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.4955,
+                "Longitude": -75.8776,
+                "InitialPopulation": 11601,
+                "FacilityName": "BelendelosAndaquies",
+                "LarvalHabitatMultiplier": 0.267
+            },
+            "NodeID": 5318094
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.7483,
+                "Longitude": -75.5618,
+                "InitialPopulation": 175407,
+                "FacilityName": "Florencia",
+                "LarvalHabitatMultiplier": 4.0372
+            },
+            "NodeID": 5318001
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.3028,
+                "Longitude": -75.235,
+                "InitialPopulation": 23789,
+                "FacilityName": "LaMontanita",
+                "LarvalHabitatMultiplier": 0.5475
+            },
+            "NodeID": 5318410
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.6131,
+                "Longitude": -75.2311,
+                "InitialPopulation": 20528,
+                "FacilityName": "ElPaujil",
+                "LarvalHabitatMultiplier": 0.4725
+            },
+            "NodeID": 5318256
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.7904,
+                "Longitude": -75.1927,
+                "InitialPopulation": 22183,
+                "FacilityName": "ElDoncello",
+                "LarvalHabitatMultiplier": 0.5106
+            },
+            "NodeID": 5318247
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 2.0175,
+                "Longitude": -75.0732,
+                "InitialPopulation": 33447,
+                "FacilityName": "PuertoRico",
+                "LarvalHabitatMultiplier": 0.7698
+            },
+            "NodeID": 5318592
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 1.5651,
+                "Longitude": -74.2571,
+                "InitialPopulation": 69214,
+                "FacilityName": "SanVicentedelCaguan",
+                "LarvalHabitatMultiplier": 1.5931
+            },
+            "NodeID": 5318753
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.6468,
+                "Longitude": -74.2702,
+                "InitialPopulation": 33908,
+                "FacilityName": "CartagenadelChaira",
+                "LarvalHabitatMultiplier": 0.7804
+            },
+            "NodeID": 5318150
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 0.2116,
+                "Longitude": -73.1323,
+                "InitialPopulation": 24131,
+                "FacilityName": "Solano",
+                "LarvalHabitatMultiplier": 0.5554
+            },
+            "NodeID": 5318756
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Caqueta",
+        "NodeCount": 16,
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R"
+    }
+}
+

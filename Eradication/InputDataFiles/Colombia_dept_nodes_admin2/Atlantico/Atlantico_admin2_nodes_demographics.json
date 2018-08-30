@@ -1,0 +1,267 @@
+{
+    "Nodes": [
+        {
+            "NodeAttributes": {
+                "Latitude": 10.8241,
+                "Longitude": -75.0755,
+                "InitialPopulation": 17031,
+                "FacilityName": "JuandeAcosta",
+                "LarvalHabitatMultiplier": 0.392
+            },
+            "NodeID": 538372
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 11.0044,
+                "Longitude": -74.9083,
+                "InitialPopulation": 26989,
+                "FacilityName": "PuertoColombia",
+                "LarvalHabitatMultiplier": 0.6212
+            },
+            "NodeID": 538573
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.9801,
+                "Longitude": -74.8265,
+                "InitialPopulation": 1223616,
+                "FacilityName": "Barranquilla",
+                "LarvalHabitatMultiplier": 28.1632
+            },
+            "NodeID": 538001
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.7412,
+                "Longitude": -74.7948,
+                "InitialPopulation": 25449,
+                "FacilityName": "SantoTomas",
+                "LarvalHabitatMultiplier": 0.5857
+            },
+            "NodeID": 538685
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.6917,
+                "Longitude": -74.7665,
+                "InitialPopulation": 25484,
+                "FacilityName": "PalmardeVarela",
+                "LarvalHabitatMultiplier": 0.5865
+            },
+            "NodeID": 538520
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.5942,
+                "Longitude": -74.799,
+                "InitialPopulation": 22581,
+                "FacilityName": "Ponedera",
+                "LarvalHabitatMultiplier": 0.5197
+            },
+            "NodeID": 538560
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.7412,
+                "Longitude": -75.145,
+                "InitialPopulation": 5150,
+                "FacilityName": "Piojo",
+                "LarvalHabitatMultiplier": 0.1185
+            },
+            "NodeID": 538549
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.9086,
+                "Longitude": -74.9832,
+                "InitialPopulation": 11024,
+                "FacilityName": "Tubara",
+                "LarvalHabitatMultiplier": 0.2537
+            },
+            "NodeID": 538832
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.8991,
+                "Longitude": -74.8871,
+                "InitialPopulation": 43896,
+                "FacilityName": "Galapa",
+                "LarvalHabitatMultiplier": 1.0103
+            },
+            "NodeID": 538296
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.9048,
+                "Longitude": -74.7718,
+                "InitialPopulation": 632183,
+                "FacilityName": "Soledad",
+                "LarvalHabitatMultiplier": 14.5506
+            },
+            "NodeID": 538758
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.8495,
+                "Longitude": -74.8046,
+                "InitialPopulation": 123265,
+                "FacilityName": "Malambo",
+                "LarvalHabitatMultiplier": 2.8371
+            },
+            "NodeID": 538433
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.7937,
+                "Longitude": -74.9218,
+                "InitialPopulation": 58426,
+                "FacilityName": "Baranoa",
+                "LarvalHabitatMultiplier": 1.3448
+            },
+            "NodeID": 538078
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.7681,
+                "Longitude": -74.8541,
+                "InitialPopulation": 15407,
+                "FacilityName": "Polonuevo",
+                "LarvalHabitatMultiplier": 0.3546
+            },
+            "NodeID": 538558
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.7996,
+                "Longitude": -74.7696,
+                "InitialPopulation": 32332,
+                "FacilityName": "Sabanagrande",
+                "LarvalHabitatMultiplier": 0.7442
+            },
+            "NodeID": 538634
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.6215,
+                "Longitude": -74.956,
+                "InitialPopulation": 99246,
+                "FacilityName": "Sabanalarga",
+                "LarvalHabitatMultiplier": 2.2843
+            },
+            "NodeID": 538638
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.4893,
+                "Longitude": -74.8777,
+                "InitialPopulation": 12506,
+                "FacilityName": "Candelaria",
+                "LarvalHabitatMultiplier": 0.2878
+            },
+            "NodeID": 538141
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.4538,
+                "Longitude": -74.9852,
+                "InitialPopulation": 15913,
+                "FacilityName": "Manati",
+                "LarvalHabitatMultiplier": 0.3663
+            },
+            "NodeID": 538436
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.4017,
+                "Longitude": -74.8752,
+                "InitialPopulation": 15755,
+                "FacilityName": "CampodelaCruz",
+                "LarvalHabitatMultiplier": 0.3626
+            },
+            "NodeID": 538137
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.3116,
+                "Longitude": -74.9051,
+                "InitialPopulation": 8664,
+                "FacilityName": "Suan",
+                "LarvalHabitatMultiplier": 0.1994
+            },
+            "NodeID": 538770
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.5064,
+                "Longitude": -75.1211,
+                "InitialPopulation": 26439,
+                "FacilityName": "Repelon",
+                "LarvalHabitatMultiplier": 0.6085
+            },
+            "NodeID": 538606
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.6351,
+                "Longitude": -75.16,
+                "InitialPopulation": 27232,
+                "FacilityName": "Luruaco",
+                "LarvalHabitatMultiplier": 0.6268
+            },
+            "NodeID": 538421
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.7412,
+                "Longitude": -74.9831,
+                "InitialPopulation": 9434,
+                "FacilityName": "Usiacuri",
+                "LarvalHabitatMultiplier": 0.2171
+            },
+            "NodeID": 538849
+        },
+        {
+            "NodeAttributes": {
+                "Latitude": 10.3524,
+                "Longitude": -74.9638,
+                "InitialPopulation": 11492,
+                "FacilityName": "SantaLucia",
+                "LarvalHabitatMultiplier": 0.2645
+            },
+            "NodeID": 538675
+        }
+    ],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Atlantico",
+        "NodeCount": 23,
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R"
+    }
+}
+

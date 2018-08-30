@@ -1,0 +1,16 @@
+{
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DataProvenance": "",
+        "DatavalueCount": 1460,
+        "DateCreated": "07/07/2017",
+        "IdReference": "ValledelCauca",
+        "NodeCount": 1,
+        "OriginalDataYears": "2013-2016",
+        "StartDayOfYear": "January 1",
+        "Tool": "colombia_admin1_generate_singlenode_climate_data.R",
+        "UpdateResolution": "CLIMATE_UPDATE_DAY"
+    },
+    "NodeOffsets": "09B308CD00000000"
+}
+

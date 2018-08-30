@@ -1,0 +1,16 @@
+{
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DataProvenance": "",
+        "DatavalueCount": 1460,
+        "DateCreated": "09/05/2017",
+        "IdReference": "Amazonas",
+        "NodeCount": 11,
+        "OriginalDataYears": "2013-2016",
+        "StartDayOfYear": "January 1",
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R",
+        "UpdateResolution": "CLIMATE_UPDATE_DAY"
+    },
+    "NodeOffsets": "005244AA000000000052439F000016D0005244B000002DA0005245B6000044700052429900005B40005244B40000721000524464000088E00052444600009FB00052442D0000B680005245350000CD500052442F0000E420"
+}
+

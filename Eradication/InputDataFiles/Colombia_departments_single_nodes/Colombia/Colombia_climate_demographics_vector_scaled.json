@@ -1,0 +1,47 @@
+{
+    "Nodes": [
+ {
+        "NodeAttributes": {
+            "Latitude": -74.125,
+            "Longitude": 4.5833,
+            "InitialPopulation": 48679480,
+            "FacilityName": "Colombia",
+            "LarvalHabitatMultiplier": 486.7948
+        },
+        "NodeID": 53
+    }
+],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 1,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution1": 0,
+            "PrevalenceDistribution2": 0,
+            "AgeDistributionFlag": 1,
+            "AgeDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "ImmunityDistributionFlag": 0,
+            "ImmunityDistribution1": 1,
+            "ImmunityDistribution2": 0,
+            "RiskDistributionFlag": 0,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "10/02/2017",
+        "IdReference": "Colombia",
+        "NodeCount": 1,
+        "Tool": "colombia_create_admin0_climate_demographics_files.R"
+    }
+}
+

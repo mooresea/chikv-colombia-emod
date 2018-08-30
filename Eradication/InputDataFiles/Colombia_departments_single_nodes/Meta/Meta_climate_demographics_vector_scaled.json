@@ -1,0 +1,47 @@
+{
+    "Nodes": [
+ {
+        "NodeAttributes": {
+            "Latitude": 3.3188,
+            "Longitude": -72.9661,
+            "FacilityName": "Meta",
+            "InitialPopulation": 979710,
+            "LarvalHabitatMultiplier": 0.6632
+        },
+        "NodeID": 168298688
+    }
+],
+    "Defaults": {
+        "NodeAttributes": {
+            "Urban": 0,
+            "AbovePoverty": 1,
+            "Region": 0,
+            "Seaport": 0,
+            "BirthRate": 0,
+            "Airport": 0,
+            "Altitude": 0
+        },
+        "IndividualAttributes": {
+            "PrevalenceDistributionFlag": 0,
+            "PrevalenceDistribution2": 0,
+            "PrevalenceDistribution1": 0,
+            "AgeDistribution2": 18250,
+            "RiskDistributionFlag": 0,
+            "AgeDistributionFlag": 1,
+            "ImmunityDistributionFlag": 0,
+            "AgeDistribution1": 0,
+            "ImmunityDistribution1": 1,
+            "RiskDistribution1": 1,
+            "RiskDistribution2": 0,
+            "ImmunityDistribution2": 0
+        }
+    },
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DateCreated": "07/07/2017",
+        "IdReference": "Meta",
+        "NodeCount": 1,
+        "Tool": "colombia_admin1_generate_singlenode_climate_data.R"
+    }
+}
+

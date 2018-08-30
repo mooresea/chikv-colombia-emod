@@ -1,0 +1,16 @@
+{
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DataProvenance": "",
+        "DatavalueCount": 1460,
+        "DateCreated": "09/05/2017",
+        "IdReference": "LaGuajira",
+        "NodeCount": 15,
+        "OriginalDataYears": "2013-2016",
+        "StartDayOfYear": "January 1",
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R",
+        "UpdateResolution": "CLIMATE_UPDATE_DAY"
+    },
+    "NodeOffsets": "00518B5A0000000000518B01000016D000518D8A00002DA000518B6E0000447000518E6A00005B4000518E570000721000518CA4000088E000518C1700009FB000518B4E0000B68000518C7A0000CD5000518B230000E42000518CAE0000FAF000518E4F000111C000518D300001289000518B6200013F60"
+}
+

@@ -1,0 +1,16 @@
+{
+    "Metadata": {
+        "Author": "ND Dynamics",
+        "DataProvenance": "",
+        "DatavalueCount": 1460,
+        "DateCreated": "09/05/2017",
+        "IdReference": "Putumayo",
+        "NodeCount": 13,
+        "OriginalDataYears": "2013-2016",
+        "StartDayOfYear": "January 1",
+        "Tool": "colombia_create_admin2_climate_demographics_files_IDCOL.R",
+        "UpdateResolution": "CLIMATE_UPDATE_DAY"
+    },
+    "NodeOffsets": "005231FD0000000000523208000016D000522FEB00002DA000523203000044700052327100005B40005232050000721000523050000088E00052328500009FB000522F110000B680005231480000CD50005231490000E4200052314D0000FAF00052314B000111C0"
+}
+
