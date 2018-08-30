@@ -14,3 +14,5 @@ The dtk-submissions folder contains python scripts used to run the various simul
 The inputs folder contains the department-level time series of weekly reported chikungunya cases from the start of the epidemic through week 2 of 2016.
 
 The Rscripts folder contains R scripts used to analyze model output.
+
+Output data from simulations is too large to post on github (>20 GB), but is available upon request to corresponding authors of Moore et al. 2018.
